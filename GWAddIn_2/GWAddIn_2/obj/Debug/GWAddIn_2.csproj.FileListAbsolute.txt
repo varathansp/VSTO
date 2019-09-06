@@ -1,0 +1,10 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\bin\Debug\Project1.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\bin\Debug\Project1.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\bin\Debug\Project1.tlb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\GWAddIn_2.csproj.ResolveComReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\Project1.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\Project1.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\GWAddIn_2.csprojResolveAssemblyReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\GWAddIn_2.Properties.Resources.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\GWAddIn_2\GWAddIn_2\obj\Debug\GWAddIn_2.csproj.GenerateResource.Cache

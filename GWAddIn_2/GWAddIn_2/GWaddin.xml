@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <commands>
+    <command enabled="false" idMso="TabSave"/>
+<command enabled="false" idMso="FileOpen"/>
+<command enabled="false" idMso="FileSave"/>
+<command enabled="false" idMso="FileClose" />
+<command enabled="false" idMso="FileExit"/>
+<command enabled="false" idMso="ApplicationOptionsDialog"/>
+    <!--<command enabled="false" idMso="FileNewDefault"/>     
+<command enabled="false" idMso="FileOpenRecentFile"/>
+<command enabled="false" idMso="FilePrint"/>
+<command enabled="false" idMso="FilePrintCustomRange"/>-->
+   
+  </commands>
+  
+  <backstage>
+    <tab idMso="TabInfo" visible="false" />
+    <tab idMso="TabRecent" visible="false" />
+    <!--<tab idMso="TabPrint" visible="false"  />-->
+    <tab idMso="TabNew" visible="false"  />
+    <tab idMso="TabShare" visible="false"  />
+    <tab idMso="TabHelp" visible="false"  />
+        
+  </backstage>
+  
+</customUI>
