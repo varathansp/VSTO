@@ -1,0 +1,9 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\bin\Debug\DI_APP.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\bin\Debug\DI_APP.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.csproj.ResolveComReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.Home.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.Properties.Resources.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.TwoInstance.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.csproj.GenerateResource.Cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\DI_APP\DI_APP\obj\x86\Debug\DI_APP.pdb

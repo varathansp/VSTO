@@ -1,0 +1,7 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.Form1.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.Properties.Resources.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.csproj.GenerateResource.Cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.pdb
